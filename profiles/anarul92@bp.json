@@ -3,14 +3,14 @@
   "NAME": "MD ANARUL ISLAN",
   "USERNAME": "anarul92@bp",
   "MOBILE": "01760606592",
-  "ADDRESS": "1",
-  "STATUS": "expired",
-  "EXPIRE_DATE": "19-Jun-2026",
-  "PACKAGE_NAME": "KESHABPUR-JASHORE-MASUD-PACK-500",
-  "PACKAGE_PRICE": "500.00",
+  "ADDRESS": "Begumpur",
+  "STATUS": "active",
+  "EXPIRE_DATE": "",
+  "PACKAGE_NAME": "N\/A",
+  "PACKAGE_PRICE": "0",
   "CURRENT_BALANCE": "0",
   "MAC": "",
-  "PON": "",
+  "PON": "3",
   "URL": "https:\/\/radius.yetfix.com\/client-payment\/20260620192709134GzivsR",
-  "FETCHED_AT": 1781962107292
+  "FETCHED_AT": 0
 }
