@@ -4,13 +4,13 @@
   "USERNAME": "palash49@bp",
   "MOBILE": "01966966849",
   "ADDRESS": "Satbaria",
-  "STATUS": "active",
-  "EXPIRE_DATE": "",
-  "PACKAGE_NAME": "N\/A",
-  "PACKAGE_PRICE": "0",
-  "CURRENT_BALANCE": "0",
-  "MAC": "30:68:93:D0:F4:7F",
-  "PON": "1",
+  "STATUS": "expired",
+  "EXPIRE_DATE": "30-Aug-2026",
+  "PACKAGE_NAME": "KESHABPUR-JASHORE-MASUD-PACK-500",
+  "PACKAGE_PRICE": "500.00",
+  "CURRENT_BALANCE": "500 BDT",
+  "MAC": "",
+  "PON": "",
   "URL": "https:\/\/radius.yetfix.com\/client-payment\/2026012913040677541bMVr",
-  "FETCHED_AT": 0
+  "FETCHED_AT": 1788105693588
 }
